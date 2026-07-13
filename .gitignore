@@ -1,0 +1,180 @@
+# =============================================================================
+# Python
+# =============================================================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+MANIFEST
+
+# =============================================================================
+# Virtual Environments
+# =============================================================================
+
+# venv / virtualenv
+.venv/
+venv/
+env/
+ENV/
+
+# uv
+.uv/
+uv.lock
+
+# pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# conda
+.conda/
+conda-meta/
+envs/
+
+# poetry
+poetry.lock
+.poetry/
+
+# =============================================================================
+# Package Managers & Tools
+# =============================================================================
+
+# pip wheel cache
+*.whl
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# tox
+.tox/
+.nox/
+
+# =============================================================================
+# Jupyter / Notebooks
+# =============================================================================
+
+# Notebook checkpoint files (auto-saved intermediates)
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Jupyter runtime files
+.jupyter/
+profile_default/
+ipython_config.py
+
+# nbconvert output (keep .ipynb, ignore generated HTML/PDF/etc.)
+*.nbconvert/
+
+# =============================================================================
+# Testing & Coverage
+# =============================================================================
+
+.pytest_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+*.lcov
+nosetests.xml
+test-results/
+
+# =============================================================================
+# Type Checking & Linting
+# =============================================================================
+
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.ruff_cache/
+.pytype/
+
+# =============================================================================
+# IDEs — JetBrains (PyCharm, DataSpell, etc.)
+# =============================================================================
+
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+# JetBrains shelf / workspace metadata
+shelf/
+workspace.xml
+
+# =============================================================================
+# IDEs — VS Code
+# =============================================================================
+
+.vscode/
+# Exception: share launch configs and recommended extensions with the team
+# by uncommenting these lines if desired:
+# !.vscode/launch.json
+# !.vscode/extensions.json
+# !.vscode/settings.json
+
+# =============================================================================
+# OS / Filesystem Artifacts
+# =============================================================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# =============================================================================
+# Project-Specific
+# =============================================================================
+
+# Secrets and local configuration — never commit credentials
+.env
+.env.*
+!.env.example
+secrets.toml
+*.pem
+*.key
+
+# Large data files — track provenance in code, not binary blobs
+data/raw/
+data/interim/
+data/processed/
+*.h5
+*.hdf5
+*.parquet
+*.feather
+
+# Model checkpoints and weights
+models/
+*.ckpt
+*.pt
+*.pth
+*.pkl
+
+# Generated outputs / figures (reproducible from notebooks)
+outputs/
+figures/
+reports/generated/
+
+# Logs
+logs/
+*.log
