@@ -184,8 +184,8 @@ Topics include:
 physics-self-study/
 │
 ├── README.md
-├── roadmap/
-│   └── physics-roadmap.md
+├── docs/00_overview/
+│   └── 00_physics_study_guide_checklist.md
 │
 ├── notes/
 │   ├── mathematics/
@@ -219,6 +219,16 @@ This repository will eventually include:
 - Personal notes and summaries
 - Thought exercises
 - Mathematical derivations
+
+---
+
+# 📚 Reference Material
+
+The concepts, terminology, and problem-solving approaches used throughout this repository are primarily based on:
+
+> Bauer, W., & Westfall, G. D. (2020). *University Physics with Modern Physics* (2nd Edition). McGraw Hill.
+
+This repository is **not affiliated with or endorsed by the books referenced in this repository**. It serves as a companion to my personal study of university-level physics, where I implement concepts computationally using Python to reinforce mathematical intuition and physical understanding.
 
 ---
 
