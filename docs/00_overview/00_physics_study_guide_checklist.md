@@ -115,3 +115,15 @@
 - [ ] Quantum Computing
 - [ ] Emergent Spacetime
 - [ ] Simulation Hypothesis (Philosophy vs. Physics)
+
+## Advanced Mathematical Methods
+- [ ] Fourier Series
+- [ ] Fourier Transform
+- [ ] Sturm-Liouville Theory
+- [ ] Special Functions
+  - [ ] Bessel Functions
+  - [ ] Legendre Polynomials
+  - [ ] Hermite Polynomials
+  - [ ] Laguerre Polynomials
+  - [ ] Hypergeometric Functions
+- [ ] Green's Functions
