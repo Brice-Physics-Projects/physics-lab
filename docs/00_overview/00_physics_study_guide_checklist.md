@@ -1,6 +1,7 @@
 # Physics Self-Study Roadmap
 
 ## ☐ Mathematical Methods for Physics
+
 - [ ] Algebra Review
 - [ ] Trigonometry
 - [ ] Calculus I (Limits, Derivatives, Integrals)
@@ -16,6 +17,7 @@
 ---
 
 ## ☐ Classical Mechanics
+
 - [ ] Motion
 - [ ] Newton's Laws
 - [ ] Forces
@@ -29,6 +31,7 @@
 ---
 
 ## ☐ Electricity & Magnetism
+
 - [ ] Electric Charge
 - [ ] Electric Fields
 - [ ] Electric Potential (Voltage)
@@ -42,6 +45,7 @@
 ---
 
 ## ☐ Special Relativity
+
 - [ ] Why the Speed of Light is Invariant
 - [ ] Spacetime
 - [ ] Lorentz Transformations (Conceptual)
@@ -53,6 +57,7 @@
 ---
 
 ## ☐ Quantum Mechanics
+
 - [ ] Wave-Particle Duality
 - [ ] Wavefunctions
 - [ ] Probability Amplitudes
@@ -66,6 +71,7 @@
 ---
 
 ## ☐ Statistical Mechanics
+
 - [ ] Microstates & Macrostates
 - [ ] Entropy
 - [ ] Temperature
@@ -77,6 +83,7 @@
 ---
 
 ## ☐ General Relativity
+
 - [ ] The Equivalence Principle
 - [ ] Curved Spacetime
 - [ ] Geodesics
@@ -91,6 +98,7 @@
 ---
 
 ## ☐ Particle Physics
+
 - [ ] Quantum Field Theory
 - [ ] Standard Model
 - [ ] Particle Accelerators
@@ -104,6 +112,7 @@
 ---
 
 ## ☐ Modern Topics & Open Questions
+
 - [ ] The Information Paradox
 - [ ] The Holographic Principle
 - [ ] Quantum Field Theory (Conceptual)
@@ -117,6 +126,7 @@
 - [ ] Simulation Hypothesis (Philosophy vs. Physics)
 
 ## Advanced Mathematical Methods
+
 - [ ] Fourier Series
 - [ ] Fourier Transform
 - [ ] Sturm-Liouville Theory
